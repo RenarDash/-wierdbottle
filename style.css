@@ -1,0 +1,25 @@
+.copyFoot{
+    position:fixed;
+    bottom:0;
+    background-color: rgb(228, 125, 88);
+    padding:5px;
+    margin:5px;
+}
+#hed{
+    color: red;
+    text-align: center;
+}
+.five{
+    background-color: aqua;
+    padding:10px;
+    border-radius:10px;
+    margin:5px;
+}
+
+.main_div{
+    border-radius:15px;
+    padding:10px;
+}
+img{
+    border-radius: 10px;
+}
